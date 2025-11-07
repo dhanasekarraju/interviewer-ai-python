@@ -22,5 +22,5 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 }
 
 export const metadata = {
-      generator: 'v0.app'
+      generator: 'ds.app'
     };
